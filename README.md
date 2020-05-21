@@ -22,15 +22,3 @@ but before you need to install following packages:
 `npm install mysql --save `
 
 `npm install bodyparser --save `
-
-The create folder API and file as TarjomanAPI.js
-
-create code module:
-
-```js
-import axios from 'axios';
-// Tarjoman module
-export default axios.create({
-    baseURL:'https://tarjoman-tarjoman.fandogh.cloud/'
-});
-```
