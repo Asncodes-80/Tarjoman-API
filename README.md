@@ -13,9 +13,15 @@ Request
 
 Now you must create Axios module in your repository 
 
-but before you need to install package axios from npm
+but before you need to install following packages:
 
-`npm install axios --save `
+`npm install express --save `
+
+`npm install nodemon --save `
+
+`npm install mysql --save `
+
+`npm install bodyparser --save `
 
 The create folder API and file as TarjomanAPI.js
 
